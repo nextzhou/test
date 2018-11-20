@@ -1,0 +1,9 @@
+[package]
+name = "rust-redis"
+version = "0.1.0"
+authors = ["chzyer <git@0xdf.com>"]
+
+[dependencies]
+
+[dependencies.redisserver_sys]
+path = "redisserver_sys"
